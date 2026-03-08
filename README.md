@@ -15,7 +15,7 @@
 - 멤버: 박재현, 박기태, 최정우, 박혜지
 
 ## 게임 설명
-|![image](https://github.com/user-attachments/assets/e440cb9c-5b77-48bf-9718-a1555ef6d721)|![image](https://github.com/user-attachments/assets/06d55a47-99a1-4bdc-bc52-279e3eea1e69)|
+|![image](https://github.com/user-attachments/assets/ef77c89f-0e29-409f-9234-b84cce89c407)|![image](https://github.com/user-attachments/assets/c8a5e123-0ea6-4481-9533-6528805f5506)|
 |:---:|:---:|
 |시작 화면|게임 UI|
 
@@ -25,7 +25,7 @@
 - 보스몹을 처치할 시 해당 스테이지가 클리어되며, 더 강화된 좀비와 보스가 소환됩니다
 - 맵에 생성되는 랜덤한 시민을 구출하여, 버프를 받을 수 있습니다
 
-|![image](https://github.com/user-attachments/assets/990a75a5-56f7-4286-b89f-6aa0ec869e46)|![image](https://github.com/user-attachments/assets/88c62c65-75e2-46f4-a0a1-0815907c8dcf)|![image](https://github.com/user-attachments/assets/c51eec53-4823-41e1-9e76-c9f5e533b393)|
+|![image](https://github.com/user-attachments/assets/d1af1075-40ec-494b-992e-45d39bd1b48b)|![image](https://github.com/user-attachments/assets/115abeb0-ca6d-44ea-9dd4-8e05d605ec7e)|![image](https://github.com/user-attachments/assets/3f74dd0a-5832-4397-8047-b510b44b2af8)|
 |:---:|:---:|:---:|
 |좀비|보스 좀비|시민|
 
@@ -41,14 +41,14 @@
 
 |스탯|업그레이드 화면|
 |:---:|:---:|
-|![image](https://github.com/user-attachments/assets/86a27274-a97e-467b-a379-90754dcd96f4)|![image](https://github.com/user-attachments/assets/67d04b01-3363-48e3-be92-af3b3ff23e9f)|
+|![image](https://github.com/user-attachments/assets/a3c6e0d9-7370-4583-853c-b131eaf7ce70)|![image](https://github.com/user-attachments/assets/baa1551e-f008-4c96-9335-322721573317)|
 |스탯 수치 목록|업그레이드 시 선택지|
 
 - 무기
 
 |권총|샷건|라이플|폭탄|
 |---|---|---|---|
-|![image](https://github.com/user-attachments/assets/10d3ef13-a7d6-4f7f-80be-7f1d0a7986fe)|![image](https://github.com/user-attachments/assets/abae98d8-23f1-43b3-87da-161b13f87a1f)|![image](https://github.com/user-attachments/assets/e9a5aa85-fc27-416a-895f-b5d77f110162)|![image](https://github.com/user-attachments/assets/3436f9d6-4620-4bea-b517-a6bb084b88d1)|
+|![image](https://github.com/user-attachments/assets/5c8fcc38-ece1-43f4-9361-189b20707454)|![image](https://github.com/user-attachments/assets/5bc0c2aa-5cab-46d4-9e5e-4ec243e1d244)|![image](https://github.com/user-attachments/assets/9b78c8e6-58df-4db3-9c58-bfb2a1ea04df)|![image](https://github.com/user-attachments/assets/066ef758-2dcd-4c5b-94b1-3aab1c300cf8)|
 
 좀비를 잡아 무기 부품 획득 후 무기 잠금해제
 
@@ -56,6 +56,6 @@
 
 |구르기|광선|백스텝|회오리|
 |---|---|---|---|
-|![image](https://github.com/user-attachments/assets/197fc4f1-3cb2-4665-90ae-ef239a3e4af4)|![image](https://github.com/user-attachments/assets/cacea40d-8b92-46ac-b614-7721d1007f64)|![image](https://github.com/user-attachments/assets/1d6fb8a9-a0d6-42c7-ab45-d412cdfc3726)|![image](https://github.com/user-attachments/assets/1dbbad0c-d804-4db6-ac8c-cb1bfa8141f9)|
+|![image](https://github.com/user-attachments/assets/d07c7889-0f82-4e6f-83df-dc6f0b655775)|![image](https://github.com/user-attachments/assets/ce2fea55-15fe-497a-b5a8-2374f92ca5bc)|![image](https://github.com/user-attachments/assets/f7108937-575c-405a-a005-582b56ea9034)|![image](https://github.com/user-attachments/assets/7d1b87ad-d27e-4a8e-8ef7-a0901d7c289a)|
 
 보스 좀비를 잡아 랜덤 스킬 해금
